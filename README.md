@@ -1,2 +1,2 @@
 # Character App
-RPG character randomizer in Flutter done for the Moible Computation course webinar.
+RPG character randomizer in Flutter done for the Mobile Computation course webinar.
